@@ -1,0 +1,11 @@
+c:\users\user\source\repos\FormSample3\FormSample3\bin\Debug\FormSample3.exe.config
+c:\users\user\source\repos\FormSample3\FormSample3\bin\Debug\FormSample3.exe
+c:\users\user\source\repos\FormSample3\FormSample3\bin\Debug\FormSample3.pdb
+c:\users\user\source\repos\FormSample3\FormSample3\obj\Debug\FormSample3.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\FormSample3\FormSample3\obj\Debug\FormSample3.Properties.Resources.resources
+c:\users\user\source\repos\FormSample3\FormSample3\obj\Debug\FormSample3.csproj.GenerateResource.Cache
+c:\users\user\source\repos\FormSample3\FormSample3\obj\Debug\FormSample3.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\FormSample3\FormSample3\obj\Debug\FormSample3.exe
+c:\users\user\source\repos\FormSample3\FormSample3\obj\Debug\FormSample3.pdb
+c:\users\user\source\repos\FormSample3\FormSample3\obj\Debug\FormSample3.Form2.resources
+C:\Users\User\source\repos\FormSample3\FormSample3\obj\Debug\FormSample3.FormMain.resources
